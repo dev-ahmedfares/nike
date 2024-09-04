@@ -2,7 +2,7 @@ import { useState } from "react";
 import { hamburger } from "../assets/icons";
 import { headerLogo } from "../assets/images";
 import { navLinks } from "../constants";
-import Sidebar from "./sidebar";
+import Sidebar from "./Sidebar";
 
 function Nav() {
   const [showSide, setShowSide] = useState(false);
