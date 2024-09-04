@@ -6,7 +6,7 @@ function Sidebar({setShowSide}) {
   const ref =useOutsideClick(setShowSide)
 
   return (
-    <div className="absolute min-w-32 py-2 right-0 top-[120%] h-fit w-fit max-w-lg border border-coral-red/5 shadow-xl rounded-xl bg-white " ref={ref}>
+    <div className="absolute min-w-32 py-2 right-0 top-[120%] h-fit w-fit max-w-lg border border-coral-red/5 shadow-coral-red/10 shadow-lg rounded-xl bg-white " ref={ref}>
       <ul className="flex w-full flex-col min-w-lg ">
         {navLinks.map((link) => (
           <li key={link.label} className="w-full">
