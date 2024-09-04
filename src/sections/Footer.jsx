@@ -52,9 +52,9 @@ function Footer() {
             href="https://www.linkedin.com/in/dev-ahmedfares/"
             className="font-palanquin font-bold text-coral-red "
           >
-            Ahmed Fares
+            Ahmed Fares.
           </a>
-          . All rights reserved.
+           All rights reserved.
         </p>
         <p>Terms & Conditions</p>
       </div>
