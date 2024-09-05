@@ -4,7 +4,7 @@
 <h4>Preview Live Demo: <a href="https://nike-200.netlify.app/">Nike Website</a></h4>
 </div>
 <h2></h2>
-<center><a href="https://nike-200.netlify.app/"><img src="src/assets/Nike - Landing Page.png"/></a></center>
+<center><a href="https://nike-200.netlify.app/"><img src="src/assets/Nike -Landing Page.png"/></a></center>
 
 ## Technologies Used 
 * React js
