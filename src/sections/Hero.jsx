@@ -30,7 +30,7 @@ function Hero() {
           your active life
         </p>
         <Button label="Shop now" imgSrc={arrowRight} />
-        <ul className="m-auto mt-14 flex items-center justify-center gap-20 text-center font-palanquin max-sm:gap-10">
+        <ul className="m-auto mt-14 max-xl:mb-14 flex items-center justify-center gap-20 text-center font-palanquin max-sm:gap-10">
           {statistics.map((li) => (
             <li key={li.label}>
               <p className="text-4xl font-bold max-sm:text-3xl">{li.value}</p>
